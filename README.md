@@ -43,3 +43,16 @@ Uses the [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisa
 5. Test it 
    Enter any text when prompted :
    Enter news text :
+
+## Limitations
+- Model trained on specific dataset ( Kaggle new dataset )
+- May not generalize well to unseen domains ( e.g. Covid-related news)
+- Performance may drop on real-time or diverse news sources
+
+##  Future Improvements
+- Train on more diverse datasets
+- Use advanced NLP models ( BERT , LSTM )
+- Improve real-world generalization
+
+
+##
